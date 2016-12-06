@@ -1,8 +1,10 @@
+
 Router Patcher
+Created in python 2.7, tested on Windows 10.
+
 Usage: python Router_patcher.py <filename>
 
-Run the program from command line by providing csv file as an argument. i.e.
-
+Run the program from command line by providing csv file as an argument. i.e. 
 python Router_patcher.py sample.csv
 
 if no argument is provided, then the program will exit by 
